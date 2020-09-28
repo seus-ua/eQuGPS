@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.equgps.manager" version="3.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>eQuGPS</name>
+<widget id="org.equgps.manager_dev" version="3.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>eQuGPS DEV</name>
     <description>
         eQuGPS Gps tracking platform
     </description>
