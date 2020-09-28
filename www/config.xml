@@ -31,7 +31,7 @@
     <plugin name="cordova-plugin-inapppurchase" source="npm" />
     <!--plugin name="cordova-plugin-background-mode" source="npm" /-->
     <!--plugin name="cordova-sqlite-storage" source="npm" /-->
-    <icon height="1024" width="1024" src="icon.png" />
+    <icon height="512" width="512" src="icon.png" />
     <platform name="android">
         <icon qualifier="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
         <icon qualifier="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
