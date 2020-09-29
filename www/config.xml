@@ -33,7 +33,13 @@
     <!--plugin name="cordova-sqlite-storage" source="npm" /-->
     <icon height="512" width="512" src="icon.png" />
     <platform name="android">
-        <icon height="512" width="512" src="icon.png" />
+        <icon height="512" width="512" src="res/icon.png" />
+        <icon qualifier="ldpi" src="res/icon.png" />
+        <icon qualifier="mdpi" src="res/icon.png" />
+        <icon qualifier="hdpi" src="res/icon.png" />
+        <icon qualifier="xhdpi" src="res/icon.png" />
+        <icon qualifier="xxhdpi" src="res/icon.png" />
+        <icon qualifier="xxxhdpi" src="res/icon.png" />
         <splash density="land-mdpi" src="res/screen/android/drawable-land-mdpi-screen.png" />
         <splash density="land-hdpi" src="res/screen/android/drawable-land-hdpi-screen.png" />
         <splash density="land-xhdpi" src="res/screen/android/drawable-land-xhdpi-screen.png" />
